@@ -1,2 +1,3 @@
 In this I gonna make whatsapp clone...
-In this i will use javascript, nodejs, expressjs, mongodb
+In this i will use javascript, nodejs, expressjs, mongodb.
+Reference is Claver programmer's blogs.
